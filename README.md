@@ -51,14 +51,6 @@ Achetez cette interface directement en [(URL à venir)]* ou contactez-moi pour t
 ## Extrait de code
 Voici un aperçu du style de code utilisé (version limitée) :
 ```swift
-// Champ Username avec design arrondi
-TextField("Username", text: $username)
-    .padding()
-    .background(textFieldBackgroundColor)
-    .cornerRadius(30)
-    .padding(.horizontal, 40)
-    .foregroundColor(textColor)
-
 // Bouton Login avec accent de couleur
 Button(action: {}) {
     Text("Log in")
@@ -66,7 +58,16 @@ Button(action: {}) {
         .foregroundColor(.white)
         .frame(maxWidth: .infinity)
         .padding()
-        .background(primaryColor) // Couleur d'accent rouge
+        .background(primaryColor)
         .cornerRadius(30)
-        .padding(.horizontal, 40)
 }
+                    
+```
+
+## Licence
+
+Les images et extraits de code présentés dans ce repository sont fournis à titre de démonstration uniquement. L'utilisation, la reproduction ou la distribution du code complet nécessite l'achat d'une licence.
+
+© 2025 IXART. Tous droits réservés.
+
+
