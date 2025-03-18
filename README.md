@@ -2,8 +2,8 @@
 
 Une interface de connexion élégante et épurée pour applications iOS, développée avec SwiftUI. Ce design minimaliste met en avant des formes douces et une palette de couleurs dominée par un accent rouge, offrant une expérience utilisateur claire et moderne.
 
-<img width="265" alt="SCR-20250312-txof" src="https://github.com/user-attachments/assets/0426d3bc-8df5-4378-a8f6-ad9e38f8a256" />
-<img width="263" alt="SCR-20250312-txrd" src="https://github.com/user-attachments/assets/3fc290ce-f8ab-419f-b7cd-9d2708e0065c" />
+<img width="226" alt="SCR-20250318-cwhb" src="https://github.com/user-attachments/assets/3808b56b-5c1e-482a-8f64-714e1291dda3" />
+<img width="231" alt="SCR-20250318-cwil" src="https://github.com/user-attachments/assets/548538eb-2123-4f56-8c24-ea1cf56f2eee" />
 
 
 
@@ -52,15 +52,12 @@ Achetez cette interface directement en [(URL à venir)]* ou contactez-moi pour t
 Voici un aperçu du style de code utilisé (version limitée) :
 ```swift
 // Bouton Login avec accent de couleur
-Button(action: {}) {
-    Text("Log in")
-        .font(.headline)
-        .foregroundColor(.white)
-        .frame(maxWidth: .infinity)
-        .padding()
-        .background(primaryColor)
-        .cornerRadius(30)
-}
+// Champ Username
+                TextField("Username", text: $username)
+                    .padding()
+                    .background(Color(UIColor.systemGray5))
+                    .cornerRadius(30)
+                    .padding(.horizontal, 40)
                     
 ```
 
