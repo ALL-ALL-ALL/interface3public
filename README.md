@@ -6,6 +6,7 @@ Une interface de connexion élégante et épurée pour applications iOS, dévelo
 <img width="231" alt="SCR-20250318-cwil" src="https://github.com/user-attachments/assets/548538eb-2123-4f56-8c24-ea1cf56f2eee" />
 
 
+**Note sur les visuels :** Les captures d'écran présentées sont des exemples de design. Les couleurs et éléments visuels spécifiques (comme le logo "A") sont personnalisables et servent uniquement d'illustration. L'achat comprend la structure de l'interface et le code source, que vous pourrez adapter à votre propre identité visuelle.
 
 ## Caractéristiques
 ✅ **Design minimaliste et épuré** - Interface claire avec des éléments parfaitement espacés  
