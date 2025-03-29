@@ -21,7 +21,12 @@ Une interface de connexion élégante et épurée pour applications iOS, dévelo
 - Bouton de basculement mode clair/sombre
 
 ## Version disponible
-Interface statique prête à l'emploi. L'achat comprend :
+Interface statique prête à l'emploi. Important: Cette version est purement visuelle - les boutons des réseaux sociaux et le bouton de connexion sont inclus mais sans fonctionnalité active (vous devrez implémenter les actions selon vos besoins).
+
+Besoin d'assistance pour l'implémentation? Nous proposons également des services d'intégration pour rendre votre interface fonctionnelle. Contactez-nous pour un devis personnalisé d'implémentation des actions.
+
+
+L'achat comprend :
 - Code source SwiftUI complet
 - Modes clair et sombre
 - Documentation d'intégration
